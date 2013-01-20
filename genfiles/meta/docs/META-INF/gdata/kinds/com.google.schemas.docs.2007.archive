@@ -1,0 +1,3 @@
+# GData Kind Adaptors for http://schemas.google.com/docs/2007#archive
+com.google.gdata.data.docs.ArchiveEntry
+com.google.gdata.data.docs.ArchiveFeed
